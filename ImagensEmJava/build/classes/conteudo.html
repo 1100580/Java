@@ -1,0 +1,101 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>Mostrar Imagens em Java</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+      <table border="1">
+          <caption>Imagens em Java</caption>
+          <tr>
+              <td>1. </td>
+              <td>
+                  Mostra uma imagem num JLabel.<br/>
+                  Necessário fazer o Build do Projecto para copiar os ficheiros de imagens de src para classes.<br/>
+                  Para criar um jar correcto (em dist): Projecto > Properties > Run > Main Class.
+              </td>
+              <td>
+                  <a href="LabelComImagem.java">LabelComImagem.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>2. </td>
+              <td>
+                  Mostra uma imagem num JLabel e troca a imagem usando setIcon().<br/>
+              </td>
+              <td>
+                  <a href="MostrarImagemJLabel.java">MostrarImagemJLabel.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>3. </td>
+              <td>
+                  O tamanho do JLabel é maior que a imagem.
+                  O JLabel é colocado opaco e com cor de fundo.
+              </td>
+              <td>
+                  <a href="MostrarImagemJLabel2.java">MostrarImagemJLabel2.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>4. </td>
+              <td>
+                  Mostra uma imagem num JPanel.
+                  O tamanho da imagem acompanha as variações do tamanho do JPanel.<br/>
+                  Troca a imagem invocando repaint().
+              </td>
+              <td>
+                  <a href="MostrarImagemJPanel.java">MostrarImagemJPanel.java</a>
+              </td>
+          </tr>
+           <tr>
+               <td>5. </td>
+              <td>
+                  Vários JLabel são colocados parcialmente sobrepostos num JLayeredPane.<br/>
+                  Ver como usar
+                  <a href="http://download.oracle.com/javase/tutorial/uiswing/components/layeredpane.html">
+                      Layered Panes</a>.
+              </td>
+              <td>
+                  <a href="MostrarImagensJLayeredPane.java">MostrarImagensJLayeredPane.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>6. </td>
+              <td>
+                  Araste de JLabels num JLayeredPane.
+                  Os JLabels são posicionados com o método setBounds().<br/>
+                  Durante o arraste os JLabels sobem para a camada Drag Layer.
+                  No fim voltam para a camada de partida.<br/>
+                  Ver como usar
+                  <a href="http://download.oracle.com/javase/tutorial/uiswing/components/layeredpane.html">
+                      Layered Panes</a>.
+              </td>
+              <td>
+                  <a href="ArrasteImagemJLayeredPane.java">ArrasteImagemJLayeredPane.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>7. </td>
+              <td>
+                  Araste de JLabels num JLayeredPane.
+                  Colocou-se a restrição de os Jlabels só poderem ser movidos para quadrados da mesma cor.<br/>
+                  Se o movimento do JLabel é válido a sua posição final é ajustada no quadrado que contém o ponteiro do rato.
+              </td>
+              <td>
+                  <a href="ArrasteImagemJLayeredPane2.java">ArrasteImagemJLayeredPane2.java</a>
+              </td>
+          </tr>
+          <tr>
+              <td>8. </td>
+              <td>
+                  Se o movimento do JLabel é inválido o regresso à sua posição de partida é efectuado por um thread.
+              </td>
+              <td>
+                  <a href="ArrasteImagemJLayeredPane3.java">ArrasteImagemJLayeredPane3.java</a>
+              </td>
+          </tr>
+      </table>
+  </body>
+</html>

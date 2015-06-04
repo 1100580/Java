@@ -1,0 +1,80 @@
+// Programa Principal
+ED
+    INTEIRO na, numeros[]
+    TEXTO nomes[]
+ALG
+INÍCIO
+    na <- numAlunos()
+
+    criar numeros[na]
+    criar nomes[na]
+
+    lerFicheiroParaArrays(numeros,nomes)
+
+    ordenarArrays(numeros, nomes)
+
+    escreverArraysEmFicheiro(numeros, nomes)
+
+FIM
+
+DEFINIR INTEIRO numAlunos()
+ED  FICHEIRO fin
+    INTEIRO c
+INÍCIO
+    c <- 0
+    abrir(fin,"Alunos.txt")
+    ENQUANTO ( NÃO fimFicheiro(fin) )  FAZER
+        lerLinha(fin)
+        c <- c + 1
+    FENQ
+    fechar(fin)
+    RETORNAR c
+FDEF
+
+DEFINIR lerFicheiroParaArrays( INTEIRO[] numeros, TEXTO[] nomes )
+ED  FICHEIRO fin
+    TEXTO linha, subLinha[]
+    INTEIRO i
+INÍCIO
+    i <- 0
+    abrir(fin,"Alunos.txt")
+    ENQUANTO ( NÃO fimFicheiro(fin) )  FAZER
+        linha <- lerLinha(fin)
+        subLinha <- separar(linha,"/")
+        numero[i] <- INT(subLinha[0])
+        nome[i] <- subLinha[1]
+        i <- i + 1
+    FENQ
+    fechar(fin)
+FDEF
+
+DEFINIR  ordenarArrays( INTEIRO[] numeros, TEXTO[] nomes )
+ED  INTEIRO i, j, tmpi
+    TEXTO tmps
+INÍCIO
+    PARA (i<-0 ATÉ comprimento(numeros)-2 PASSO 1 ) FAZER
+        PARA (j<-i+1 ATÉ comprimento(numeros)-1 PASSO 1 ) FAZER
+            SE ( numeros[j] < numeros[i] ) ENTÃO
+                tmpi <- numeros[i]
+                numeros[i] <- numeros[j]
+                numeros[j] <- tmpi
+                tmps <- nomes[i]
+                nomes[i] <- nomes[j]
+                nomes[j] <- tmps
+            FSE
+        FPARA
+    FPARA
+FDEF
+
+DEFINIR escreverArraysEmFicheiro( INTEIRO[] numeros, TEXTO[] nomes )
+ED  FICHEIRO fout
+    INTEIRO i
+    TEXTO linha
+INÍCIO
+    abrir(fout, "AlunosOrdenados.txt")
+    PARA (i<-0 ATÉ comprimento(numeros)-1 PASSO 1) FAZER
+        linha <- numeros[i] + "/" + nomes[i]
+        escreverLinha(fout,linha)
+    FPARA
+    fechar(fout)
+FDEF

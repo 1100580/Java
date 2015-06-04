@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model
+END
+Frota.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/rentacar-app1/!svn/ver/7/Rent-a-car-iteracao1/src/rentacarapp_model/Frota.java
+END
+CondutorAutorizado.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/rentacar-app1/!svn/ver/5/Rent-a-car-iteracao1/src/rentacarapp_model/CondutorAutorizado.java
+END
+Automovel.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/Automovel.java
+END
+Empresa.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/Empresa.java
+END
+ContratoAluguer.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/ContratoAluguer.java
+END
+ServicoAdicional.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/ServicoAdicional.java
+END
+GrupoAutomovel.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/GrupoAutomovel.java
+END
+LocalDevolucao.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/rentacar-app1/!svn/ver/5/Rent-a-car-iteracao1/src/rentacarapp_model/LocalDevolucao.java
+END
+LinhaServicoAdicional.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/rentacar-app1/!svn/ver/14/Rent-a-car-iteracao1/src/rentacarapp_model/LinhaServicoAdicional.java
+END

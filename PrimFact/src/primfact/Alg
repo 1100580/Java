@@ -1,0 +1,61 @@
+algoritmo()
+{
+	num : inteiro;
+   int div;
+	leia ("digite o número: ", num);
+	Fatorar(num);
+}
+//---------------------------------------------------
+funcao Fatorar(inteiro N)
+{
+	// decompoe o numero N em seus fatores primos
+
+	div : inteiro; // divisores de N
+
+	div := 1;
+
+	enquanto (N>2)
+	{
+		se (EPrimo(div))
+		{
+			se (Resto(N,div)==0)
+			{
+				escreva(N, " | ", div);
+				N := N / div;
+			}
+			senao
+			{
+				div := div + 1;
+			}
+		}
+		senao
+		{
+			div := div + 1;
+		}
+	}
+}
+//-----------------------------------------------------
+funcao EPrimo(inteiro N)
+{
+	// verifica se o numero e ou nao primo
+	// retorna 1 (um) se o numero for primo
+	// retorna 0 (zero) se o numero nao for primo
+
+	i : inteiro; // numeros inteiros a partir de 1
+	divisores : inteiro; // quantidade de divisores de N
+
+	i := 1;
+
+	divisores := 0;
+
+	enquanto (i < N)
+	{
+		se (N % i == 0)
+		{
+			divisores := divisores + 1;
+		}
+		i := i + 1;
+	}
+	retorne divisores;
+}
+

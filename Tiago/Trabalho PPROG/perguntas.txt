@@ -1,0 +1,466 @@
+Matemática
+1
+Quantos lados tem um triângulo?
+4
+0
+2
+3
+5
+3
+
+Matemática
+1
+O ano de 1900 pertence a que século?
+4
+XX
+XIX
+XXI
+XVIII
+2
+
+Matemática
+1
+Qual dos seguintes números não é primo? 
+3
+9
+5
+7
+1
+
+Matemática
+1
+Qual dos seguintes números não é um quadrado perfeito?
+5
+4
+9
+16
+25
+6
+5
+
+Matemática
+2
+Quais dos seguintes números são múltiplos de 4?
+5
+8
+13
+16
+20
+33
+1,0,1,1,0
+
+Matemática
+2
+A soma de dois números é 1007. Um deles é 8 onze avos do outro. Os 2 números são:
+4
+583
+322
+424
+627
+1,0,1,0
+
+Matemática
+2
+Quais das seguintes expressões representam o número 3?
+4
+5x3-14
+(4x3+2-2)/4
+4^2-10
+2+13-5-7
+0,1,0,1
+
+Matemática
+2
+Quais das seguintes expressões representam um número inteiro?
+3
+(4x3x4)/4
+(7+6)/3
+(5^2)/2
+1,0,0
+
+Matemática
+3
+Uma dízima infinita não periódica representa sempre um número:
+irracional;real;não racional;nao racional
+
+Matemática
+3
+Uma afirmação que se aceita como verdadeira sem demonstração é:
+um axioma;axioma;postulado;um postulado;hipótese;hipotese;uma hipotese;uma hipótese
+
+História
+1
+Quem dirigiu a instituição do Estado Novo em Portugal?
+4
+Marcelo Caetano
+António de Spínola
+Francisco Sá Carneiro
+António de Oliveira Salazar
+4
+
+História
+1
+Em que ano teve lugar a célebre Batalha de Aljubarrota?
+4
+1383
+1385
+1885
+1567
+5
+
+História
+1
+Como se chamava o navegador Português que dobrou, em 1488, o cabo das Tormentas?
+3
+Gil Eanes
+Bartolomeu Dias
+Pedro Alvares Cabral
+2
+
+História
+1
+Quem subiu ao trono após a crise dinástica provocada pela morte de D.Frenando, em 22 de Outubro de 1383?
+5
+D.Duarte
+D.Manuel I
+D.Sebastião
+D.João I
+D.João IV
+4
+
+História
+1
+Como se chamou o tratado de paz,assinado em 1918, que pôs fim à Primeira Guerra Mundial?
+4
+Tratado de Roma
+Tratado de Frankfurt
+Tratado de Versalhes
+Tratado de Fontainebleu
+3
+
+História
+1
+Quem desempenhou o cargo de secretário-geral da Organização das Nações Unidas de 1992 a 1996?
+4
+Kurt Waldheim
+Boutros Boutros-Ghali
+Kofi Annan
+Javi Pérez de Cuellar
+2
+
+História
+1
+Quem foi o 1º presidente da República Portuguesa após o 25 de Abril de 1974?
+3
+António Spínola
+António Ramalho Eanes
+Álvaro Cunhal
+1
+
+História
+2
+Quais dos seguintes já foram Primeiros Ministros de Portugal?
+5
+Durão Barroso
+Paulo Portas
+Santana Lopes
+José Sócrates
+Ferro Rodrigues
+1,0,1,1,0
+
+História
+2
+Indique os anos durante os quais estava a decorrer uma das Guerras Mundiais.
+5
+1915
+1917
+1927
+1938
+1943
+1,1,0,0,1
+
+História
+2
+Quais dos seguintes Reis de Portugal governaram depois do ano de 1800?
+4
+D. João VI
+D. Manuel I
+D. Luís I
+D. Afonso IV
+1,0,1,0
+
+História
+3
+Em que ano terminou a Guerra da Restauração, com a assinatura de um tratado em que a Espanha reconhecia a independência de Portugal?
+1668; 
+
+Geografia
+1
+Que país produz quase um quinto de todo o vinho do mundo?
+3
+Itália
+França
+Espanha
+2
+
+Geografia
+1
+Que cidade substituiu o Rio de Janeiro como capital do Brasil?
+4
+Guanabara
+Bahia
+Brasília
+Copacabana
+3
+
+Geografia
+1
+Como são chamados os povos nativos do Ártico?
+4
+Esquimós
+Tuargues
+Apaches
+Índios
+1
+
+Geografia
+1
+Qual o país com mais habitantes do mundo?
+5
+Alemanha
+Russia
+Brasil
+China
+Estados Unidos da América
+4
+
+Geografia
+2
+Quais dos seguintes países pertencem à Europa?
+5
+Venezuela
+Turquia
+Malta
+Irão
+República Checa
+0,1,1,0,1
+
+Geografia
+2
+Quais das seguintes cidades pertencem à França?
+4
+Paris
+Copenhaga
+Estocolmo
+Nice
+1,0,0,1
+
+Geografia
+2
+Quais dos seguintes continentes pertencem ao Hemisfério Norte?
+4
+Europa
+Oceania
+América Central
+América do Sul
+1,0,1,0
+
+Geografia
+2
+Quais dos seguintes continentes pertencem ao Hemisfério Sul?
+3
+Europa
+Oceania
+América do Sul
+0,1,1
+
+Geografia
+3
+Como se chama a montanha mais alta do mundo?
+himalaia;himalaias;cordilheira do himalaia
+
+Geografia
+3
+Indique o nome de um dos países que fazem fronteira com o Brasil.
+argentina;bolívia;bolivia;colômbia;colombia;guiana francesa;guiana;paraguai;peru;perú;suriname;uruguai;venezuela
+
+Informática
+1
+HTML significa:
+5
+Hybrid Text Mail Language
+Hyper Text Mail Language
+Hyper Text Markup Language.
+Hyper Transition Man Language
+Nenhuma das Anteriores
+3
+
+Informática
+1
+Qual o formato de imagem mais utilizado actualmente?
+4
+JPG
+GIF
+BPM
+TIFF
+1
+
+Informática
+1
+O Adobe Photoshop é um programa que serve para:
+4
+Edição de vídeo
+Edição de áudio
+Edição de imagem
+Programação
+3
+
+Informática
+1
+Uma disquete de 3.5 polegadas permite armazenar:
+3
+1440 KB
+1.4 Bytes
+1.4 MB
+3
+
+Informática
+2
+Quais dos seguintes formatos de ficheiro sao formatos de imagem?
+5
+.wmv
+.gif
+.pdf
+.doc
+.jpg
+0,1,0,0,1
+
+Informática
+2
+Quais dos seguintes programas são browsers da Internet?
+4
+Internet Explorer
+Windows Explorer
+Mozilla Firefox
+Opera
+1,0,1,1
+
+Informática
+2
+Quais dos seguintes formatos de ficheiro sao formatos de áudio?
+4
+.wav
+.gif
+.mp3
+.mp4
+1,0,1,0
+
+Informática
+2
+Quais dos seguintes números representam 1 MB?
+3
+1012 KB
+1 048 576 byte
+1024 kb
+0,1,0
+
+Informática
+3
+Como se chama o empresário multimilionário fundador da Microsoft?
+william henry gates;bill gates
+
+Informática
+3
+Como se chama a unidade de memória que equivale a 1024 GigaBytes?
+terabyte;tebibyte;tb
+
+Ciências
+1
+Que forma de radiação solar é que causa queimaduras na pele?
+5
+Visível
+Ultravioleta
+Infra vermelha
+Raio X
+Ondas de Rádio
+2
+
+Ciências
+1
+Em qual dos seguintes meios o som não se propaga?
+4
+Madeira
+Ar
+Vácuo
+Água
+3
+
+Ciências
+1
+Quando a luz branca atinge a camisa do Pedro, a mesma fica azul. Porque é que a camisa fica azul?
+4
+Absorve toda a luz branca e transforma muito dela em luz azul
+Reflecte a parte azul da luz e absorve a maior parte do resto
+Absorve apenas a parte azul da luz
+Emite a sua própria luz azul 
+2
+
+Ciências
+1
+Um gato é um animal do tipo:
+3
+Mamífero
+Réptil
+Peixe
+1
+
+Ciências
+2
+Quais dos seguintes comprimentos de onda se encontram no espectro da luz visível?
+5
+127 nm
+357 nm
+480 nm
+600 nm
+830 nm
+0,0,1,1,0
+
+Ciências
+2
+Quais dos seguintes animais sao peixes?
+4
+Sardinha
+Baleia
+Tubarão
+Cobra
+1,0,1,0
+
+Ciências
+2
+Qual o animal mais veloz?
+4
+Gazela
+Leão
+Leopardo
+Chita
+1,0,1,0
+
+Ciências
+2
+Quais destes animais conseguem correr a mais de 60km/h?
+3
+Gazela
+Girafa
+Leão
+1,0,1
+
+Ciências
+3
+Como se chama a unidade básica de vida?
+célula;celula
+
+Ciências
+3
+Como se chama o maior tendão do corpo humano?
+tendão de aquiles;tendao de aquiles;tendão de calcâneo;tendao de calcaneo;aquiles;calcâneo;calcaneo
+

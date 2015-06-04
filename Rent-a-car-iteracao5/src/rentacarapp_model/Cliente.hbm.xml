@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hibernate-mapping>
+    <class name="rentacarapp_model.Cliente" table="CLIENTE" schema="ADMIN">
+        <id name="ida" type="int">
+            <column name="ID" />
+            <generator class="increment" />
+        </id>
+        <property name="id" type="int">
+            <column name="IDENTIFICA" />
+        </property>
+        <property name="nome" type="String">
+            <column name="NOME" length="50" />
+        </property>
+        <property name="telefone" type="int">
+            <column name="TELEFONE"/>
+        </property>
+        <property name="valAc" type="Real">
+            <column name="VALAC"/>
+        </property>
+    </class>
+</hibernate-mapping>

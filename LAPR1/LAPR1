@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+ "http://www.w3.org/TR/html4/strict.dtd" > 
+ <html> 
+ <head> 
+ <title> MULTIPLICAR MATRIZ POR VECTOR </title> 
+ </head> 
+ <body> 
+ MATRIZ: 
+ <table border=1> 
+ <tr> 
+ <th>3.0</th>
+<th>4.0</th>
+<th>5.0</th>
+</tr> 
+ <tr> 
+ <th>4.0</th>
+<th>3.0</th>
+<th>2.0</th>
+</tr> 
+ <tr> 
+ <th>3.0</th>
+<th>4.0</th>
+<th>4.0</th>
+</tr> 
+ </tr>
+ </table> 
+  RESULTADO; 
+3.0 x 3.0 x 4.0 + 4.0 x 4.0 * 5.0 + 3.0 x 4.0 x 2.0 - (5.0 * 3.0 x 3.0 + 2.0 x 4.0 x 3.0 + 4.0 x 4.0 x 4.0) = 7.0
